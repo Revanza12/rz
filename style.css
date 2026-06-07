@@ -140,7 +140,7 @@ audio { margin: 30px 0 50px 0; height: 40px; border-radius: 20px; width: 100%; m
     pointer-events: none;
     z-index: 1000;
     opacity: 0;
-    font-size: 24px; /* Atur ukuran emojinya di sini */
+    font-size: 30px; /* Atur ukuran emojinya di sini */
     animation: explode ease-out 1.2s forwards; 
 }
 
